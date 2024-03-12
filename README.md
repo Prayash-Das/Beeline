@@ -47,7 +47,7 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 ## Credits
 
-This project was created by [Prayash Das].
+This project was created by Prayash Das.
 
 ## Feedback
 
