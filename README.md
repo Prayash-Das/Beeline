@@ -2,7 +2,7 @@
 
 Welcome to Beeline, where you play as the queen bee, managing your hive's honey production to prepare for the winter. In this strategic game, you'll send out scout bees and worker bees to collect pollen from flowers while avoiding dangerous pitcher plants. Can you guide your bees to success and ensure the prosperity of your hive?
 
-![Beeline Game](beeline_game_image.png)
+![Beeline Game](Grid.png)
 
 ## Program Description
 
