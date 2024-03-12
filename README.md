@@ -35,6 +35,7 @@ git clone https://github.com/yourusername/beeline-game.git
 2. Navigate to the project directory and run the main script:
 
 cd beeline-game
+
 python Beeline.py
 
 
