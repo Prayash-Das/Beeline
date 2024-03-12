@@ -29,7 +29,7 @@ This project consists of three main Python files:
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/Beeline.git
+git clone https://github.com/prayashdas07/Beeline.git
 
 
 2. Navigate to the project directory and run the main script:
