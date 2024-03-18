@@ -29,7 +29,7 @@ This project consists of three main Python files:
 
 1. Clone the repository:
 
-git clone https://github.com/prayashdas07/Beeline.git
+git clone https://github.com/Prayash-Das/Beeline.git
 
 
 2. Navigate to the project directory and run the main script:
@@ -51,5 +51,5 @@ This project was created by Prayash Das.
 
 ## Feedback
 
-If you have any feedback or suggestions, please feel free to [contact us](mailto:dasprayash07@gmail.com).
+If you have any feedback or suggestions, please feel free to [contact us](mailto:pdas4@stevens.edu).
 
